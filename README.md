@@ -7,4 +7,5 @@ This shows various methods to unblock websites on a school chromebook.
 This is pretty self-explanatory as this method requires you to go to settings and click reset settings. Then click the button reset settings.
 
 # Method 2: Use Code
-Go to the file remove_extension
+  ## Method 2.1
+        Go to the file remove_extension. On your chormebook add a new bookmark. Click more. Set the title to remove extension. Then paste in the code into URL.
